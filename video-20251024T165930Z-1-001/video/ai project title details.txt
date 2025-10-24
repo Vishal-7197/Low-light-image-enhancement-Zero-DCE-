@@ -1,0 +1,10 @@
+Title 		 :  Low-light image enhancement (Zero-DCE)
+Name   		 : Nagula Vishal
+Roll Number      : 21CSB0A38
+Phone Number     : 9951666651
+Environment or 	 : Python,pandas,numpy,keras
+Software
+Datasets details : https://drive.google.com/uc?id=1DdGIJ4PZPlF2ikl8mNM9V-PdVxVLbQi6 ,TensorFlow data set
+basepaperdetails : NA
+current status   : I had given LOLDATASET which can extract the low light images to high light images using Zero-DCE Famework
+		  and checking the loss functions of the extracted images and Inference on testing images.
